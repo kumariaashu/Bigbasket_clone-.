@@ -1,2 +1,2 @@
 # Bigbasket_clone-.
-#PAGES
+
