@@ -8,6 +8,4 @@
 ![image](https://user-images.githubusercontent.com/113367998/230125097-69437783-a9a4-496a-a793-de210611b7a2.png)
 
 # Payment page
-![image](https://user-images.githubusercontent.com/113367998/230125754-5e662990-a834-4486-a662-1002712608e7.png)
-
-
+![image](https://user-images.githubusercontent.com/113367998/230126057-676bd97e-9178-4277-b976-a15f518caf84.png)
