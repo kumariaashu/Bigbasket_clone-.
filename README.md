@@ -12,4 +12,5 @@
 ## Payment page
 ![image](https://user-images.githubusercontent.com/113367998/230167930-9188cf55-679a-47d7-acc2-db2b70eb7d97.png)
 
-
+# Technology used :
+I completed this project with the help of HTML, CSS, and Javascript.
